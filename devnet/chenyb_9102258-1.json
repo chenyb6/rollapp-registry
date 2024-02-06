@@ -1,0 +1,26 @@
+{
+  "chainId": "chenyb_9102258-1",
+  "chainName": "chenyb_9102258-1",
+  "rpc": "http://62.171.179.110:26657",
+  "rest": "http://62.171.179.110:1317",
+  "bech32Prefix": "your_prefix",
+  "currencies": [
+    {
+      "displayDenom": "AVL",
+      "baseDenom": "uAVL",
+      "decimals": 18,
+      "logo": "/root/rollapp-registry/devnet/chenyb_9102258-1/logos/chenyb_9102258-1.png",
+      "type": "main"
+    }
+  ],
+  "evm": {
+    "chainId": "9102258",
+    "rpc": "http://62.171.179.110:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "AVL",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5HeFtcccapbAiCFmgoFjuaYs9PtfPmuKqteHvWKr5dYHyjDs"
+}
